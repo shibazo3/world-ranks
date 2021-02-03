@@ -1,7 +1,7 @@
 import Head from "next/head";
 import { useState } from "react";
 import styles from "../styles/Home.module.css";
-import Layout from "../components/Layout/layout";
+import Layout from "../components/Layout/Layout";
 import SearchInput from "../components/SearchInput/SearchInput";
 import CountriesTable from "../components/CountriesTable/CountriesTable";
 
